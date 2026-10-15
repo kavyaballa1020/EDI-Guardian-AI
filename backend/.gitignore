@@ -1,0 +1,12 @@
+node_modules/
+.env
+*.log
+# Local database files
+backend/data/
+*.db
+*.db-shm
+*.db-wal
+ 
+# Secrets
+.env
+backend/.env
